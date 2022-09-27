@@ -1,1 +1,1 @@
-# -discord-clear-dm
+# discord-clear-dm
